@@ -1,4 +1,5 @@
 # <h1 align="center"> Sistem de Login Básico </h1>
+<p align="center">Projeto iniciante que foi desenvolvido com os primeiros comandos em JS!</p>
 <p align="center">Site desenvolvido para treinar lógica de login por meio do JavaScript</p>
 
 <p align="center">
@@ -32,5 +33,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### Imagens
 
-![Screenshot](/images/print_git.png)
+![Screenshot](/images/print_github.png)
 
