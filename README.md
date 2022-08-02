@@ -34,4 +34,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ### Imagens
 
 ![Screenshot](/images/print_github.png)
+<p align="center"> Após a confirmação dos dados, é exibido uma mensagem indicando o login: </p>
 
+![Screenshot](/images/print2_github.png)
