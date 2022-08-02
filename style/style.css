@@ -1,0 +1,21 @@
+body {
+    background: rgb(80, 75, 75);
+}
+
+.topo{
+    color: rgb(43, 43, 129);
+}
+
+.botaoo{
+    padding: 5px;
+    border-radius: 10px;
+    cursor: pointer;
+    background: white;
+
+}
+
+.botaoo:hover{
+
+    background: rgb(224, 222, 222);
+
+}
